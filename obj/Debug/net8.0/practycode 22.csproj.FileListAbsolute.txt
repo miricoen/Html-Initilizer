@@ -1,0 +1,21 @@
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\practycode 22.exe
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\example.html
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\practycode 22.deps.json
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\practycode 22.runtimeconfig.json
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\practycode 22.dll
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\practycode 22.pdb
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.GeneratedMSBuildEditorConfig.editorconfig
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.AssemblyInfoInputs.cache
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.AssemblyInfo.cs
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.csproj.CoreCompileInputs.cache
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.dll
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\refint\practycode 22.dll
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.pdb
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.genruntimeconfig.cache
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\ref\practycode 22.dll
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\json\HtmlTags.json
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\json\HtmlVoidTags.json
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\שולחן העבודה\practycode 22\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.csproj.AssemblyReference.cache
+D:\שולחן העבודה\practycode 22\obj\Debug\net8.0\practycode 22.csproj.CopyComplete
